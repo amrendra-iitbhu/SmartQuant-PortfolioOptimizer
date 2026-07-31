@@ -1,4 +1,5 @@
-# SmartQuant Pro
+# SmartQuant-PortfolioOptimizer
+
 
 **Machine learning–driven portfolio optimization and risk analytics, in an interactive Streamlit dashboard.**
 
